@@ -1,0 +1,13 @@
+merged file:
+abc
+bta
+cfg
+def
+fec
+hkl
+klm
+lmn
+npt
+prs
+
+Process finished with exit code 0

@@ -1,0 +1,8 @@
+Stock	Price
+DPW	1.57
+SITO	4.84
+NLNK	7.18
+INB	9.39
+Mar 01, 2018 9:01:05 PM org.springframework.batch.core.launch.support.SimpleJobLauncher$1 run
+INFO: Job: [FlowJob: [name=myJob]] completed with the following parameters: [{}] and the following status: [COMPLETED]
+Exit Status : COMPLETED
